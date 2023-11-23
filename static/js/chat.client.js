@@ -1,4 +1,6 @@
-// const username = prompt('bienvenido al chat, ingrese su nombre')
+const username = prompt('bienvenido al chat, ingrese su nombre')
+
+
 
 const form = document.querySelector('form')
 
